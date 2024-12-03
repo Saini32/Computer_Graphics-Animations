@@ -6,9 +6,7 @@ void main() {
 	int gd=DETECT,gm;
 	clrscr();
 	initgraph(&gd,&gm,"C:\\turboc3\\bgi");
-	line(320,250,150,250);
-	line(150,250,350,250);
-	line(320,250,150,250);
+	line(100,100,200,300);
 	getch();
 	closegraph();
 	

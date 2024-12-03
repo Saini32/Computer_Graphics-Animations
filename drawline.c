@@ -12,5 +12,4 @@ void main() {
 	getch();
 	closegraph();
 	
-
 }
